@@ -4,15 +4,15 @@
 Instructions for 2-color Double Bed Jacquard
 (AYAB's "Ribber" setting.)
 
-Double bed jacquard (DBJ) as described here (Rib Jacquard with birds-eye backing) 
-is known in Brother manuals as Multi-Colour Rib. See pages 38-39 of the 
-[KR850 ribber manual](http://machineknittingetc.com/brother-kr850-ribber-user-guide.html) (the penguins) and 
+Double bed jacquard (DBJ) as described here (Rib Jacquard with birds-eye backing)
+is known in Brother manuals as Multi-Colour Rib. See pages 38-39 of the
+[KR850 ribber manual](http://machineknittingetc.com/brother-kr850-ribber-user-guide.html) (the penguins) and
 page 11 of the [manual for the KRC-900 color changer](http://machineknittingetc.com/brother-krc900-double-bed-color-changer-user-guide.html).  
-You can make other DBJ variants, too (see end of this page). 
+You can make other DBJ variants, too (see end of this page).
 Note that DBJ in 3 or more colors has some differences, though the basic
-instructions are the same. Carriage part names are defined on page 32 of the 
-[KH910 manual](http://machineknittingetc.com/brother-kh910-user-guide.html) and 
-on page 1 of the KR850 manual, respectively. 
+instructions are the same. Carriage part names are defined on page 32 of the
+[KH910 manual](http://machineknittingetc.com/brother-kh910-user-guide.html) and
+on page 1 of the KR850 manual, respectively.
 
 ![ ](img/dbj_2-color/DSCF9373_Smiley_cropped.jpg)
 
@@ -23,7 +23,7 @@ Smiley was made from this image:
 AYAB takes care of the colors for you, you just give it a black-and-white
 pattern as if you are going to do single bed Fair Isle. This tutorial refers
 to the foreground color as black, and the background color as white.
-To create your own patterns, refer to section ["Pattern creation"](../pattern_image_creation.md). 
+To create your own patterns, refer to section ["Pattern creation"](../pattern_image_creation.md).
 Use thin yarns, you'll be using side-by-side needles on both beds.
 (For those in the US, Woollike yarn works well.)  
 For your first practice sample, use this Triangles image that also comes with
@@ -41,37 +41,59 @@ If you watch the needle selection carefully you'll start to understand what
 it's doing.
 
 # Instructions
+## Setup
+### Ribber
 - Set up the ribber (KR850 manual, pages 3-7)
-- Set up the color changer (KHR900 manual, pages 2-4) with the black yarn 
-  (foreground color); the white slot (background color) is open ready to accept 
+### Color Changer
+- Set up the color changer (KHR900 manual, pages 2-4) with the black yarn
+  (foreground color); the white slot (background color) is open ready to accept
   the yarn after the cast on.  
+### Fine Knit Bar
 - You might need the fine knit bar. Try it if your stitches sometimes tuck
-  instead of knitting off. 
-- On the ribber, set half-pitch lever to H (P-H lever=H, see KR850 manual, 
-  page 13), 
+  instead of knitting off.
+### Ribber Settings  
+- On the ribber, set half-pitch lever to H (P-H lever=H, see KR850 manual,
+  page 13),
 - On the ribber, set racking grip handle to 5 (Rack=5, KR850 manual p.13)
 - set bracket lever to the normal (highest) position (KR850 manual, p.14)
+
+### Casting On
 - Needles L30-R30 on both beds for our first Triangles sample
 - Make sure you have an even number of stitches on the ribber.
 - Cast on in white in FNR (Full Needle Rib) as shown on pages 26-28 of the KR850 manual.
 - Knit one or two rows of FNR.
 - Carriage on left, outside the left turn mark.
 - Set the row counter, RC=000
-- Set up the carriages as shown on page 39 of the KR850 manual:  
-    Page 39.png  
-  Main bed: Both part buttons in; KC1 or KC2.  
-  I usually use KC2 rather than KC1.  
-  Ribber: Both sliders (cam levers) up. Both lili buttons to lili.  
-  Lower slide lever to lili (center).  
-  Stitch Size depends on your yarn. Try 4/4.
 
-- In the AYAB software, left-click "Load pattern" and select the image triangles_60x10.png.
-  (For other patterns, choose a monochrome image that is at least as wide as the 
-  needles you are using) 
-- Set AYAB to 2-color, start at row 1, Infinite Repeat, start/stop needles 30/30,
-  Ribber ("Ribber: Classic" for AYAB v0.95), Center.
+### Multi-Color Rib Setup
+Set up the carriages as shown on page 39 of the KR850 manual:  
+![Page 39.png](img/dbj_2-color/Page_39.png)  
+- **Main bed**:
+  - Both part buttons in
+  - KC1 or KC2.  
+  - I usually use KC2 rather than KC1.  
+- **Ribber**:
+  - Both sliders (cam levers) up.
+  - Both lili buttons to lili.  
+  - Lower slide lever to lili (center).  
+  - Stitch Size depends on your yarn. Try 4/4.
+
+### Ayab Setup
+Setup for the AYAB software:
+- left-click "Load pattern" and select the image triangles_60x10.png.
+   - (For other patterns, choose a monochrome image that is at least as wide as the
+  needles you are using)
+- Configure AYAB:
+  - Set AYAB to 2-color
+  - start at row 1
+  - Infinite Repeat
+  - start/stop needles 30/30
+  - Ribber ("Ribber: Classic" for AYAB v0.95)
+  - Center
 - Press Configure.
 - Press Knit.
+
+### Knitting
 - Press the color changer button for the black yarn.
 - Bring the carriage out past the turn mark and stop to wait for the triple-beep
   as usual, just on this first row.
@@ -101,26 +123,26 @@ Then check again after several inches have been knit, by now you may be able to
 put a mirror underneath and check that the pattern you want is appearing on the
 work on the side away from you, and birds-eye stripes on the side facing you.
 
-For finalizing the knit, you may want to add 1-2 rows of FNR (KR850 
-manual, p. 28). Binding off (casting off) is described on page 53 of the KR850 
-manual or in this video on Youtube: [Double Bed Bind-Off Video](https://youtu.be/VEzJg0oRzVw)) 
-Any bind off that requires latching stitches through each other requires the 
-last row before chaining stitches to be knit looser than previous ones (see below) 
-An alternative method ("Das Abketten II") is translated as follows: 
-Transfer all stitches to the rear needle bed [to the needle bed  of the KH 910 
-(KR850 manual, p.52)] and immediately set the empty needles of the KR 850 
+### Finishing
+For finalizing the knit, you may want to add 1-2 rows of FNR (KR850
+manual, p. 28).  
+Binding off (casting off) is described on page 53 of the KR850
+manual or in this video on Youtube: [Double Bed Bind-Off Video](https://youtu.be/VEzJg0oRzVw))  
+Any bind off that requires latching stitches through each other requires the
+last row before chaining stitches to be knit looser than previous ones (see below)  
+
+An alternative method ("Das Abketten II") is translated as follows:
+ - Transfer all stitches to the rear needle bed [to the needle bed  of the KH 910
+(KR850 manual, p.52)] and immediately set the empty needles of the KR 850
 ribber back to the B-position.
-At the K carriage of the KH 910, set the tension dial 4 steps higher [to 7]. 
-The tension dial of the KR 850 ribber carriage remains unchanged. Move the 
-carriage from left to right. On the needles of the KR 850 ribber, stitches have 
-formed around the previously empty needles. Disconnect the carriages 
-[(KR850 manual, p. 15)] and move the KR 850 ribber carriage from right to left. 
-Thereby, the stitches are removed from the needles of the KR 850 ribber. Now, 
-lower the KR 850 ribber [to the lowest position (KR850 manual, p. 14)]. This has 
-created the elongated stitches that may again be chained through each other:
-Set the needles of the KH 910 needle bed to the E-position. Remove the weights 
-and the comb, then proceed by binding off as described on page 22 or 
-pages 111-114 of the KH910 manual.
+ - At the K carriage of the KH 910, set the tension dial 4 steps higher [to 7].
+The tension dial of the KR 850 ribber carriage remains unchanged.
+ - Move the carriage from left to right. On the needles of the KR 850 ribber, stitches have formed around the previously empty needles.
+ - Disconnect the carriages (KR850 manual, p. 15) and move the KR 850 ribber carriage from right to left.
+ - Thereby, the stitches are removed from the needles of the KR 850 ribber.
+ - Now, lower the KR 850 ribber [to the lowest position (KR850 manual, p. 14)]. This has created the elongated stitches that may again be chained through each other:
+ - Set the needles of the KH 910 needle bed to the E-position.
+ - Remove the weights and the comb, then proceed by binding off as described on page 22 or pages 111-114 of the KH910 manual.
 
 # More description on how 2-color DBJ works
 
@@ -216,16 +238,16 @@ is counted as the last pass of the previous set.
     ![ ](img/dbj_2-color/DSCF0020.JPG)
 
 
-# Alternative Jacquard variants with AYAB 
+# Alternative Jacquard variants with AYAB
 
-Different variants of DBJ exist. A selection of carriage settings that can easily 
-be used with the AYAB hack is provided in table 1 and table 2 below. More 
-variants that require different degrees of hand manipulation are described 
-together with fabric properties in a [blog post by Alessandrina](http://alessandrina.com/2017/11/09/a-return-to-brother-ribber-and-dbj-settings/). 
+Different variants of DBJ exist. A selection of carriage settings that can easily
+be used with the AYAB hack is provided in table 1 and table 2 below. More
+variants that require different degrees of hand manipulation are described
+together with fabric properties in a [blog post by Alessandrina](http://alessandrina.com/2017/11/09/a-return-to-brother-ribber-and-dbj-settings/).
 
-Table 1: Carriage settings for a selection of different DBJ variants. 
-Adapted from [a blog post by "steel breeze"](http://machineknitting101.blogspot.com/2010/08/double-bed-jacquard-variations.html) and [Alessandrina (2017)](http://alessandrina.com/2017/11/09/a-return-to-brother-ribber-and-dbj-settings/) 
-with permission from the original authors. 
+Table 1: Carriage settings for a selection of different DBJ variants.
+Adapted from [a blog post by "steel breeze"](http://machineknitting101.blogspot.com/2010/08/double-bed-jacquard-variations.html) and [Alessandrina (2017)](http://alessandrina.com/2017/11/09/a-return-to-brother-ribber-and-dbj-settings/)
+with permission from the original authors.
 
 Lever               | striper (double) | striper (half) | tucked half Milano |
 --------------------|------------------|----------------|--------------------|
@@ -244,9 +266,9 @@ Slide Lever         | IiIi             | IiIi           | IiIi               |
 
 \* KR Change Knob = 0: turned inwards, away from IiIi mark.
 
-Table 2: carriage settings for DBJ with solid backing. Adapted from 
-["steel breeze" (2010)](http://machineknitting101.blogspot.com/2010/08/double-bed-jacquard-variations.html) and [Alessandrina (2017)](http://alessandrina.com/2017/11/09/a-return-to-brother-ribber-and-dbj-settings/) 
-with permission from the original authors. 
+Table 2: carriage settings for DBJ with solid backing. Adapted from
+["steel breeze" (2010)](http://machineknitting101.blogspot.com/2010/08/double-bed-jacquard-variations.html) and [Alessandrina (2017)](http://alessandrina.com/2017/11/09/a-return-to-brother-ribber-and-dbj-settings/)
+with permission from the original authors.
 
 Lever               | solid (col1)** |solid (col2)**  |
 --------------------|----------------|----------------|
@@ -267,10 +289,10 @@ Slide Lever         | IiIi           | IiIi           |
 \*\* After each 2 rows, change settings and proceed with the next color.
 
 
-This article is copied from [ravelry](https://www.ravelry.com/discuss/ayab/3714047/1-25) 
+This article is copied from [ravelry](https://www.ravelry.com/discuss/ayab/3714047/1-25)
 and modified by [DerAndere](https://it-by-derandere.blogspot.com/p/blog-page_46.html).
 Thanks, Adrienne!
-Settings for alternative Jacquard variants were taken from 
-[a blog post by "steel breeze"](http://machineknitting101.blogspot.com/2010/08/double-bed-jacquard-variations.html) 
+Settings for alternative Jacquard variants were taken from
+[a blog post by "steel breeze"](http://machineknitting101.blogspot.com/2010/08/double-bed-jacquard-variations.html)
 and [a blog post by Alessandrina](http://alessandrina.com/2017/11/09/a-return-to-brother-ribber-and-dbj-settings/).
 [Feel free to improve it!](https://github.com/AllYarnsAreBeautiful/ayab-manual)
